@@ -64,3 +64,4 @@ StagedBuilds
 /OneLab/Build
 /OneLab/Intermediate
 Saved
+*.db
